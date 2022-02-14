@@ -1,0 +1,9 @@
+{
+    "name": "Newsletter",
+    "namespace": "Tec\\Newsletter\\",
+    "provider": "Tec\\Newsletter\\Providers\\NewsletterServiceProvider",
+    "author": "Tec-Dynamics LTD",
+    "url": "https://tecdynamics.co.uk",
+    "version": "5.8",
+    "description": "Newsletter"
+}
